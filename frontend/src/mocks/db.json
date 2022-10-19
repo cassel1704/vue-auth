@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "username": "Alexander Shargin",
+      "password": "$2a$10$Y7xvT8vPrjL7h8sPJxH6F.Xc7it9synf96de1AjlkCSR3WiNk9BeW",
+      "id": 1,
+      "linkedin": "https://www.linkedin.com/in/alexander-shargin-b14a76203/",
+      "telegram": "https://t.me/shrgin"
+    }
+  ]
+}
